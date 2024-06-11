@@ -6,7 +6,7 @@ matplotlib
 seaborn
 tqdm
 
-
+diffusers
 
 jupyter
 
